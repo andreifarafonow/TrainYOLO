@@ -1,0 +1,8 @@
+C:\Users\AndreyUser\Desktop\Train\ConsolePrepareData\ConsolePrepareData\ConsolePrepareData\bin\Debug\ConsolePrepareData.exe.config
+C:\Users\AndreyUser\Desktop\Train\ConsolePrepareData\ConsolePrepareData\ConsolePrepareData\bin\Debug\ConsolePrepareData.exe
+C:\Users\AndreyUser\Desktop\Train\ConsolePrepareData\ConsolePrepareData\ConsolePrepareData\bin\Debug\ConsolePrepareData.pdb
+C:\Users\AndreyUser\Desktop\Train\ConsolePrepareData\ConsolePrepareData\ConsolePrepareData\obj\Debug\ConsolePrepareData.csproj.AssemblyReference.cache
+C:\Users\AndreyUser\Desktop\Train\ConsolePrepareData\ConsolePrepareData\ConsolePrepareData\obj\Debug\ConsolePrepareData.csproj.SuggestedBindingRedirects.cache
+C:\Users\AndreyUser\Desktop\Train\ConsolePrepareData\ConsolePrepareData\ConsolePrepareData\obj\Debug\ConsolePrepareData.csproj.CoreCompileInputs.cache
+C:\Users\AndreyUser\Desktop\Train\ConsolePrepareData\ConsolePrepareData\ConsolePrepareData\obj\Debug\ConsolePrepareData.exe
+C:\Users\AndreyUser\Desktop\Train\ConsolePrepareData\ConsolePrepareData\ConsolePrepareData\obj\Debug\ConsolePrepareData.pdb
