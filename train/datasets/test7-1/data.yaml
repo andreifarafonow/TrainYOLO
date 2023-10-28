@@ -1,0 +1,12 @@
+names:
+- wood
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: test7-bcfvg
+  url: https://universe.roboflow.com/andrey-farafonov-lid0p/test7-bcfvg/dataset/1
+  version: 1
+  workspace: andrey-farafonov-lid0p
+test: test/images
+train: train/images
+val: valid/images
